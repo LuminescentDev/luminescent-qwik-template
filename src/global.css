@@ -5,8 +5,6 @@
 @plugin "@anuragroy/tailwindcss-animate";
 
 @import "@luminescent/ui";
-
-@config "@luminescent/ui-qwik/config";
 @source "../node_modules/@luminescent/ui-qwik";
 
 @theme {
